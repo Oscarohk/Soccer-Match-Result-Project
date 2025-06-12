@@ -11,6 +11,7 @@
   - [Profitability Comparison](#profitability-comparison)
 - [Conclusion](#conclusion)
 - [Further Discussion](#further-discussion)
+- [Appendix](#appendix)
 
 # Introduction
 In sports betting, we know that bookmakers would offer odds that are more favorable to them, i.e. they 
@@ -145,3 +146,21 @@ For further improvement on simulation, we suggested that we may bet with a learn
 project, we assume a fixed amount of money to bet on in every game. Instead, this could also turn into a 
 learnable parameter in the simulation by setting some thresholds on features of datasets. By executing 
 such a strategy, we hope to enlarge the profits of betting on a strong team that has a higher chance to win
+
+# Appendix
+## Confusion Matrix of the 4 models
+- Gaussian Naive Bayes Classifier
+
+![image](https://github.com/user-attachments/assets/21941354-5016-41f1-a715-218a66f81e7f)
+
+- K-Nearest Neighbour Classifier
+
+![image](https://github.com/user-attachments/assets/03cdba96-d73a-41d2-bb2c-09cd7386108e)
+
+- Logistic Regression
+
+![image](https://github.com/user-attachments/assets/b01c4557-1196-4631-85e6-613d0a55c121)
+
+- Multi-layer Perceptron
+
+![image](https://github.com/user-attachments/assets/5c36f6f5-3d30-41f7-91ba-82437bc7541f)
