@@ -1,3 +1,17 @@
+# Table of Content
+- [Introduction](#introduction)
+- [Research Methodology](#research-methodology)
+  - [Dataset](#dataset)
+  - [Dataset Exploration](#dataset-exploration)
+  - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
+  - [Machine Learning Models](#machine-learning-models)
+  - [Betting Strategy](#betting-strategy)
+- [Results and Evaluation](#results-and-evaluation)
+  - [Model Performance](#model-performance)
+  - [Profitability Comparison](#profitability-comparison)
+- [Conclusion](#conclusion)
+- [Further Discussion](#further-discussion)
+
 # Introduction
 In sports betting, we know that bookmakers would offer odds that are more favorable to them, i.e. they 
 will have a positive expected result. Our intention is to predict or even replicate their attitude towards 
